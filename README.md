@@ -9,13 +9,15 @@ using Python.
 - Prepare for technical interviews
 
 ## Topics Covered
-- Arrays
 - Strings
-- HashMaps
-- Recursion (upcoming)
-- Sorting & Searching
+
 
 ## Practice Platform
 - LeetCode
 - HackerRank
 - GeeksforGeeks
+
+
+## Progress
+- Day 1: Reverse a String
+
