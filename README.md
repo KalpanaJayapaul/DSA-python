@@ -20,4 +20,5 @@ using Python.
 
 ## Progress
 - Day 1: Reverse a String
+- Day 2: Check Palindrome in string
 
