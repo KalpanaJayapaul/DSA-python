@@ -21,4 +21,5 @@ using Python.
 ## Progress
 - Day 1: Reverse a String
 - Day 2: Check Palindrome in string
+- Day 3: Check whether two strings are anagrams
 
