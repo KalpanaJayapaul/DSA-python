@@ -21,5 +21,7 @@ using Python.
 ## Progress
 - Day 1: Reverse a String
 - Day 2: Check Palindrome in string
-- Day 3: Check whether two strings are anagrams
+- Day 3: Count Vowels in a String
+- Day 4: Check whether two strings are anagrams
+- Day 5: First Non-Repeating Character in a String
 
