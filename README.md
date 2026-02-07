@@ -24,4 +24,5 @@ using Python.
 - Day 3: Count Vowels in a String
 - Day 4: Check whether two strings are anagrams
 - Day 5: First Non-Repeating Character in a String
+- Day 6: Two Sum
 
