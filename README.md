@@ -26,4 +26,5 @@ using Python.
 - Day 5: First Non-Repeating Character in a String
 - Day 6: Two Sum
 - Day 7: Move all zeros to the end of the array
+- Day 8: Find the maximum sum of a contiguous subarray
 
