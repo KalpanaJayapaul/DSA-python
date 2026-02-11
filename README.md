@@ -27,4 +27,5 @@ using Python.
 - Day 6: Two Sum
 - Day 7: Move all zeros to the end of the array
 - Day 8: Find the maximum sum of a contiguous subarray
+- Day 9: Valid Parentheses
 
