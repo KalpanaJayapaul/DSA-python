@@ -19,13 +19,14 @@ using Python.
 
 
 ## Progress
-- Day 1: Reverse a String
-- Day 2: Check Palindrome in string
-- Day 3: Count Vowels in a String
-- Day 4: Check whether two strings are anagrams
-- Day 5: First Non-Repeating Character in a String
-- Day 6: Two Sum
-- Day 7: Move all zeros to the end of the array
-- Day 8: Find the maximum sum of a contiguous subarray
-- Day 9: Valid Parentheses
+- Day 01: Reverse a String
+- Day 02: Check Palindrome in string
+- Day 03: Count Vowels in a String
+- Day 04: Check whether two strings are anagrams
+- Day 05: First Non-Repeating Character in a String
+- Day 06: Two Sum
+- Day 07: Move all zeros to the end of the array
+- Day 08: Find the maximum sum of a contiguous subarray
+- Day 09: Valid Parentheses
+- Day 10: Reverse a singly linked list
 
