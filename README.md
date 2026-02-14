@@ -29,4 +29,5 @@ using Python.
 - Day 08: Find the maximum sum of a contiguous subarray
 - Day 09: Valid Parentheses
 - Day 10: Reverse a singly linked list
+- Day 11: Detect Cycle in Linked List
 
