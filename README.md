@@ -30,4 +30,5 @@ using Python.
 - Day 09: Valid Parentheses
 - Day 10: Reverse a singly linked list
 - Day 11: Detect Cycle in Linked List
+- Day 12: Merge Two Sorted Linked Lists
 
