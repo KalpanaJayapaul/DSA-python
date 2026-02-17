@@ -9,7 +9,27 @@ using Python.
 - Prepare for technical interviews
 
 ## Topics Covered
-- Strings
+
+Strings :
+-Reverse String
+-Palindrome Check
+-Count Vowels
+-Anagram Check
+-First Non-Repeating Character
+
+Arrays :
+-Two Sum
+-Move Zeros
+-Maximum Subarray (Kadane’s Algorithm)
+-Best Time to Buy and Sell Stock
+
+Searching :
+-Binary Search
+
+Linked Lists :
+-Reverse Linked List
+-Detect Cycle in Linked List
+-Merge Two Sorted Linked Lists
 
 
 ## Practice Platform
@@ -31,4 +51,6 @@ using Python.
 - Day 10: Reverse a singly linked list
 - Day 11: Detect Cycle in Linked List
 - Day 12: Merge Two Sorted Linked Lists
-
+- Day 13: Binary Search
+- Day 14: Best Time to Buy and Sell Stock
+- Day 15: Longest Substring Without Repeating Characters
