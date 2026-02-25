@@ -60,3 +60,4 @@ Linked Lists :
 - Day 19: Group Anagrams
 - Day 20: Longest Palindromic Substring
 - Day 21: Count Palindromic Substrings
+- Day 22: Palindrome Partitioning
